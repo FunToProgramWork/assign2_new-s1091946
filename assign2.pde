@@ -4,7 +4,7 @@ void setup() {
 }
 
 void draw() {
-	rect(10,10,100)
+	rect(10,10,100,100)
 	// Switch Game State
 		// Game Start
 
